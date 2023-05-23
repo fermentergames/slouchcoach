@@ -21,4 +21,6 @@ Basic Django setup for deploying to heroku
   5. Adjust settings file to add custom domain
   6. Get to work writing models, urls, and views with Django!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/FullBoreStudios/django-heroku-basic-template)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/fermentergames/slouchcoach)
+
+
